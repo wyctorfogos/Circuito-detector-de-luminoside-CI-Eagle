@@ -1,0 +1,20 @@
+EAGLE Version 4.16r2 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Users/Wyctor/Desktop/ELETRÔNICA ANALOGICA1/PROJETOFINALLDR/PROJETOFINAL.sch at 14/06/2019 09:35:34 
+
+WARNING: Sheet 1/1, Net N$1: missing Junction at (2.6 1.7)
+WARNING: Sheet 1/1, Net N$3: missing Junction at (2.6 1.1)
+WARNING: Sheet 1/1, Net N$3: missing Junction at (3 1.1)
+WARNING: Sheet 1/1, Net N$3: missing Junction at (3.3 1.1)
+WARNING: Sheet 1/1, Net N$6: missing Junction at (1.2 1.7)
+WARNING: Sheet 1/1, Net POT: missing Junction at (1 2.6)
+WARNING: Sheet 1/1, Net POT: missing Junction at (2.6 2.4)
+WARNING: Sheet 1/1, Net POT: missing Junction at (3 2.4)
+WARNING: Sheet 1/1, Net POT: missing Junction at (3.3 2.4)
+WARNING: Sheet 1/1: Nets N$6 and N$5 too close at (1.4 1.7)
+WARNING: Sheet 1/1, Net N$6: wire overlaps pin at (1.4 1.7)
+
+Board and schematic are consistent
+
+    0 errors
+   11 warnings
